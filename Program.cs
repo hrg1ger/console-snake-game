@@ -393,7 +393,7 @@
 
     static bool IsReplayConfirmed()
     {
-        Console.Write("\nНажмите Enter/Escape, чтобы начать заново/вернуться в меню");
+        Console.Write("\nНажмите Enter/Escape, чтобы начать заново/выйти из игры");
 
         while (true)
         {
